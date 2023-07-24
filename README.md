@@ -27,6 +27,46 @@
 
 3. Для запуска сервера выполните команду `serve -s dist`.
 
+<h2>Авторизация</h2>
+
+Для авторизации используйте логин и пароль:
+```
+login: 'developer',
+password: 'skillbox'
+```
+
+<img width="100%" align="center" src="https://github.com/TatyaG/Coin/blob/master/readme-assets/login.png">
+
+<h2>Список счетов</h2>
+
+После авторизации вы увидите список всех своих счетов.
+Также есть возможность создания нового счета.
+
+<img width="100%" align="center" src="https://github.com/TatyaG/Coin/blob/master/readme-assets/accounts.png">
+
+<h2>Информация о счете</h2>
+
+При нажатии на счет открывается информация о счете, динамика баланса, история переводов. Можно произвести новый перевод с данного счета.
+
+<img width="100%" align="center" src="https://github.com/TatyaG/Coin/blob/master/readme-assets/account.png">
+
+<h2>Подробная информация о счете</h2>
+
+При нажатии на окошко с динамикой баланса или историей переводов открывается подробная информация о счете.
+
+<img width="100%" align="center" src="https://github.com/TatyaG/Coin/blob/master/readme-assets/account-more.png">
+
+<h2>Валюты</h2>
+
+На странице валюты можно посмотреть список всех валют, изменение курсов в реальном времени произвести обмен валютами.
+
+<img width="100%" align="center" src="https://github.com/TatyaG/Coin/blob/master/readme-assets/currencies.png">
+
+<h2>Банки</h2>
+
+На странице Банкоматы отображена карта с банками
+
+<img width="100%" align="center" src="https://github.com/TatyaG/Coin/blob/master/readme-assets/banks.png">
 
 
 
